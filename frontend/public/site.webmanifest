@@ -1,0 +1,16 @@
+{
+  "name": "ClaimLayer",
+  "short_name": "ClaimLayer",
+  "description": "Plain-English insurance claims decided on GenLayer",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#9B6AF6",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
